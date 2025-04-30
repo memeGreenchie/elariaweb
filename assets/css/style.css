@@ -125,7 +125,7 @@ Version: 1.0.0
   --hover-color1: #e74c3c; /* First hover color */
   --hover-color2: #f39c12; /* Second hover color */
   --hover-color3: #2ecc71; /* Third hover color */
-  --title-font: "Unbounded", sans-serif;
+  --title-font: "Tagesschrift", system-ui;
   --body-font: "Poppins", sans-serif;
   --icon-font: "Font Awesome 6 Pro";
   --main-container: 1320px;
